@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="recently_played">Recently Played</string>
+    <string name="your_playlists">Your Playlists</string>
+    <string name="library">Library</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="album_1">Album 1</string>
+    <string name="album_2">Album 2</string>
+    <string name="song_1">Song 1</string>
+    <string name="song_2">Song 2</string>
+    <string name="playlist_1">Playlist 1</string>
+    <string name="playlist_2">Playlist 2</string>
+    <string name="rewind">Rewind</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="forward">Forward</string>
+    <string name="rewinding">Now rewinding&#8230;</string>
+    <string name="forwarding">Now forwarding&#8230;</string>
+    <string name="playing">Now playing&#8230;</string>
+    <string name="paused">Paused.</string>
+
+    <!-- Home screen description -->
+    <string name="description_home">This screen is the first screen when the user launches the app.
+     It may show the user links to their library, the current playing song and also show their
+    recently played songs and their playlists.</string>
+
+    <!-- Recently played description -->
+    <string name="description_recently_played">This screen will show all the top recently played
+    songs and playlists to the user and will have a button that allows them to play the particular
+    song or playlist. It will also have a link to the \'Now Playing\' activity.</string>
+
+    <!-- Library description -->
+    <string name="description_library">This screen will show all the users songs and albums that
+    they have on their device. Clicking either song or album will start playing that particular song
+    or album. This screen will also contain a link to the \'Now Playing\' activity.</string>
+
+    <!-- Playlists description -->
+    <string name="description_playlists">This screen will show all the users playlists that he/she
+    has created. Clicking on each playlist will start playing that respective playlist. This
+    screen will also contain a link to the \'Now Playing\' activty.</string>
+
+    <!-- Now Playing description -->
+    <string name="description_now_playing">This screen will show the currently playing song\'s info
+    like the name, playlist, album, album art, artist, year, etc. It will also have a progress bar
+    showing the track\'s progress and the length of track. It will have buttons for Play which
+    changes to pause and buttons for rewind and forward which when pressed for a longer time can
+    fast rewind or fast forward. We can achieve the play/pause, rewind, forward functionality by
+    using the MediaPlayer class provided by Android. The screen will also contain a link to the
+    \'Library\' activity.</string>
+
+</resources>
