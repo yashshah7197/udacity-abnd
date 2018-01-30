@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+    <string name="address_header">Address:</string>
+    <string name="address">Ground floor, Centriole, ITI Road, Aundh, Pune, Maharashtra 411007</string>
+    <string name="contact_header">Contact number:</string>
+    <string name="contact_number">020 65001296</string>
+    <string name="hours_header">Open hours:</string>
+    <string name="hours">7 AM to 12 Midnght</string>
+</resources>

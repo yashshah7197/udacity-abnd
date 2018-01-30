@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="io.yashshah.starbucks.MainActivity">
+
+    <ImageView
+        android:id="@+id/businessImageView"
+        android:src="@drawable/starbucks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:id="@+id/addressTextViewMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/businessImageView"
+        android:paddingLeft="24dp"
+        android:paddingTop="24dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="@string/address_header"/>
+
+    <TextView
+        android:id="@+id/addressTextViewSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addressTextViewMedium"
+        android:paddingLeft="24dp"
+        android:paddingTop="4dp"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:text="@string/address"/>
+
+    <TextView
+        android:id="@+id/contactTextViewMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addressTextViewSmall"
+        android:paddingLeft="24dp"
+        android:paddingTop="24dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="@string/contact_header"/>
+
+    <TextView
+        android:id="@+id/contactTextViewSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contactTextViewMedium"
+        android:paddingLeft="24dp"
+        android:paddingTop="4dp"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:text="@string/contact_number"/>
+
+    <TextView
+        android:id="@+id/hoursTextViewMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contactTextViewSmall"
+        android:paddingLeft="24dp"
+        android:paddingTop="24dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="@string/hours_header"/>
+
+    <TextView
+        android:id="@+id/hoursTextViewSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hoursTextViewMedium"
+        android:paddingLeft="24dp"
+        android:paddingTop="4dp"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:text="@string/hours"/>
+</RelativeLayout>
