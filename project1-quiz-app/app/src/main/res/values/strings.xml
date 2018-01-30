@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Manchester United Quiz</string>
+
+    <!-- Quiz Questions -->
+    <string name="question1">What was Manchester United FC\'s original club name?</string>
+    <string name="question2">In which year was Manchester United FC founded?</string>
+    <string name="question3">Which legendary manager retired in 2013 after 26 years of success at the highest level?</string>
+    <string name="question4">Which of the following did Sir Alex Fergusson win in his time at United?</string>
+    <string name="question5">In which year did Manchester United win the treble?</string>
+    <string name="question6">Who amongst the following wore the number 7 jersey?</string>
+    <string name="question7">What is the name of Manchester United\'s world record signing?</string>
+    <string name="question8">Who is the current manager of Manchester United?</string>
+    <string name="question9">What is the name of Manchester United\'s mascot?</string>
+    <string name="question10">In which year did the tragic plane crash of Munich occur?</string>
+
+    <!-- Quiz Options & Answers -->
+    <string name="answer_hint">Answer</string>
+    <string name="answer1">newton heath l&amp;yr fc</string>
+    <string name="answer2_1">1878</string>
+    <string name="answer2_2">1892</string>
+    <string name="answer2_3">1884</string>
+    <string name="answer2_4">1880</string>
+    <string name="jose">Jose Mourinho</string>
+    <string name="pep">Pep Guardiola</string>
+    <string name="siralex">Sir Alex Ferguson</string>
+    <string name="sirmatt">Sir Matt Busby</string>
+    <string name="answer4_1">13 Premier League Titles</string>
+    <string name="answer4_2">5 FA Cups</string>
+    <string name="answer4_3">2 Champions Leagues</string>
+    <string name="answer4_4">8 Europa Leagues</string>
+    <string name="answer5_1">1998</string>
+    <string name="answer5_2">1999</string>
+    <string name="answer5_3">2000</string>
+    <string name="answer5_4">2001</string>
+    <string name="ronaldo">Cristiano Ronaldo</string>
+    <string name="rooney">Wayne Rooney</string>
+    <string name="beckham">David Beckham</string>
+    <string name="cantona">Eric Cantona</string>
+    <string name="pogba">Paul Pogba</string>
+    <string name="dimaria">Angel Di Maria</string>
+    <string name="zlatan">Zlatan</string>
+    <string name="rafa">Rafa Benitez</string>
+    <string name="klopp">Jurgen Klopp</string>
+    <string name="fred">fred the red</string>
+    <string name="answer10_1">1956</string>
+    <string name="answer10_2">1962</string>
+    <string name="answer10_3">1958</string>
+    <string name="answer10_4">1970</string>
+    <string name="submit">Submit</string>
+
+</resources>
