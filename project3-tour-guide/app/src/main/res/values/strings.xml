@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="historical">Historical</string>
+    <string name="museums">Museums</string>
+    <string name="food">Food</string>
+    <string name="other">Other</string>
+
+    <string name="aga_khan_palace">Aga Khan Palace</string>
+    <string name="aga_khan_palace_description">The Aga Khan Palace in Pune occupies a prime
+        position in the history of India’s freedom movement for the fact that Mahatma Gandhi,
+        his wife, secretary and others were incarcerated here from 1942. It now serves as the
+        headquarters of the Gandhi National Memorial Society where the making of ‘khadi’ continues
+        to be a prime activity. This imposing palace where one can feel an intense connection with
+        the past is also known for its beautiful and serene gardens.</string>
+
+    <string name="shaniwar_wada">Shaniwar Wada</string>
+    <string name="shaniwar_wada_description">Shaniwarwada was the stately mansion originally built
+        as the residence of the Peshwas. The foundation of the mansion was laid by Bajirao 1 in the
+        year 1730 AD and construction was completed in 1732 AD at a cost of Rs. 16,120. Several
+        additions were made to the palace like fortification walls with bastions, gates and court
+        halls by his successors.</string>
+
+    <string name="sinhagad_fort">Sinhagad Fort</string>
+    <string name="sinhagad_fort_description">As one of the top military outposts during the reign
+        of Chhatrapati Shivaji Maharaj, the fort of Sinhagad not only offers a fascinating peek
+        into the history of the Maratha Empire but is also a perennial favourite with trekkers
+        and the residents of Pune because of its proximity to the city. While standing atop the
+        hill and taking in the panoramic view of the landscape below, you cannot help but wonder
+        at the vision of those who built such imposing structures at such great heights</string>
+
+    <string name="national_war_museum">National War Museum</string>
+    <string name="national_war_museum_description">The National War Museum is a result of public’s
+        initiative to set up some museums in fond memory of the Indian soldiers who laid down
+        their lives for the nation. The citizens of Pune, under the Express Citizens’
+        Forum established the War Memorial Fund. Thus funds were collected from the citizens of
+        the country for this noble cause. From the rich business executives to the common man,
+        all contributed to this fund according to their abilities. Then the foundation of the
+        National War Museum was laid in November 1977 and finally opened for the public in
+        October 1998.</string>
+
+    <string name="raja_dinkar_kelkar_museum">Raja Dinkar Kelkar Museum</string>
+    <string name="raja_dinkar_kelkar_museum_description">Kelkar Museum was established in 1962 by
+        Baba Dinkar Kelkar and was donated to the Maharashtra government in 1975. The museum
+        has 20,000 different articles, all personally collected by Baba Kelkar from all over
+        the world. When his son died at the age of seven, he decided to do something in his
+        remembrance and that is how the idea of building this museum was conceived.</string>
+
+    <string name="darshan_museum">Darshan Museum</string>
+    <string name="darshan_museum_description">The Darshan museum is a biographical museum that is
+        dedicated to the Life and teaching of Sadhu Vaswani, the modern Sindhi spiritual leader.
+        A visit to this museum can be a transforming experience in many ways. The museum is built
+        on the first floor of the Sadhu Vaswani mission building. It covers a huge area of
+        10000 sq. ft and hordes of visitors are charmed by this place daily. It is designed to
+        engage people in a modernistic, rich in multimedia way with a number of interactive
+        exhibits.</string>
+
+    <string name="joshi_museum">Joshi\'s Museum of Miniature Railways</string>
+    <string name="joshi_museum_description">Joshi\'s Museum of Miniature Railway is a miniature
+        railway museum located in the Karve Road locality of Pune, a city in the state of
+        Maharashtra, India. The museum hosts working models of various types of trains.
+        It was started by Bhausaheb Joshi.</string>
+
+    <string name="vaishali">Vaishali</string>
+    <string name="vaishali_description">Vaishali is one of the most popular restaurant among the
+        student community of Pune, Situated on the Fergusson College Road. Vaishali attracts all
+        the college crowd. The ambience is youthful and price factor is also average and that is
+        the main reason why Vaishali has become a hot hang out of Pune’s student community.</string>
+
+    <string name="cafe_goodluck">Cafe Goodluck</string>
+    <string name="cafe_goodluck_description">Good Luck Cafe is a popular Irani cafe-restaurant
+        on the Fergusson College Road, in the Deccan Gymkhana area of Pune, India. Established
+        in 1935 by Hussain Ali Yakshi, it is one of the oldest Irani places in Pune. Good luck cafe
+        is most famous for it bun maska/bun omelette and Iranian tea among the other dishes.
+        The place is always crowded and especially popular among the youngsters.</string>
+
+    <string name="jj_garden">JJ Garden Wada Pav</string>
+    <string name="jj_garden_description">Vada pav at the Garden Vada Pav Centre is truly exceptional
+        and Garden Wada Pav is a name which most pune wala\'s are familiar with. The place has
+        been serving what many claim is the “best wada pav” in town for over three generations.
+        It is evident by the crowd which is present any time of the day. Though a roadside shop,
+        it is famous for its taste and their Chutney is the differentiator.</string>
+
+    <string name="kalyan_bhel">Kalyan Bhel House</string>
+    <string name="kalyan_bhel_description">Kalyan Bhel House is a renowned chaat and snack house
+        operating since the last 30 years in Pune. The goal is to satisfy the hunger of chaat and
+        snack lover’s and having loyal customers all year around. Kalyan Bhel House is famous,
+        popular and unique because of is its delicious and yummy food, walking distance locations,
+        scintillating ambience, cleanliness and hygiene, and above all friendly staff.</string>
+
+    <string name="dagduseth_temple">Dagduseth Temple</string>
+    <string name="dagduseth_temple_description">Srimanth Dagaduseth Ganpati temple pune is one of
+        the most important and visited ganesh temple in Maharashtra. Dagaduseth seth ganpati temple
+        is visited by millions of people on ganesh chaturthi and the ten day festival celebration
+        of Ganesh chaturthi.The Lord Ganesh temple is situated at a walking distance from the
+        famous historical monument called Shaniwar Wada, which used to be the administrative
+        headquarter during the Peshwa Regime.</string>
+
+    <string name="parvati">Parvati</string>
+    <string name="parvati_description">Parvati is one of the favourite relaxation spots for the
+        residents of Pune. The height of Parvati hill is 2100 feet above sea level and 260 feet
+        from the city level. The hill offers an aerial view of the city and the most picturesque
+        scene in the early hours of the day. Parvati hill houses one big and three small 
+        temples.</string>
+
+    <string name="nda">National Defence Academy</string>
+    <string name="nda_description">The National Defence Academy (NDA) is the Joint Services academy 
+        of the Indian Armed Forces, where cadets of the three services, the Army, the Navy and 
+        the Air Force train together before they go on to pre-commissioning training in their
+        respective service academies. The NDA is located at Khadakwasla near Pune, Maharashtra. 
+        It is the first tri-service academy in the world.</string>
+
+    <string name="khadakwasla">Khadakwasla Dam</string>
+    <string name="khadakwasla_description">Khadakwasla Dam is a dam on the Mutha River 20 km (12 mi)
+        from the city of Pune in Maharashtra, India. This dam across the river Mutha created an
+        attractive lake, now known as Khadakwasla Lake. This lake is the main source of water for
+        Pune and its suburbs.</string>
+</resources>
