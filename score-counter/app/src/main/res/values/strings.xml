@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="team_a_name">Manchester United</string>
+    <string name="team_b_name">Leicester City</string>
+    <string name="fouls_committed">Fouls Committed</string>
+    <string name="zero">0</string>
+    <string name="goal">Goal! +1</string>
+    <string name="foul">Foul! +1</string>
+    <string name="Reset">Reset</string>
+</resources>
