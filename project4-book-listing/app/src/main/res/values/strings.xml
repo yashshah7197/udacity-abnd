@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+
+    <string name="no_data">No data found. Please enter a search term and
+        tap the \'Search\' button.</string>
+
+    <string name="no_internet">No internet connection</string>
+
+    <string name="authors">Authors: </string>
+
+    <string name="category">Category: </string>
+
+    <string name="page_count">Page Count: </string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="enter_search">Enter search term here…</string>
+
+    <string name="search">Search</string>
+</resources>
